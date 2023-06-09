@@ -6,7 +6,7 @@ import { Link } from "react-router-dom"
 const Footer = () => {
     return (
         <footer className="footer text-center">
-            <div className="row">
+            <div className="row m-0">
                 <div className="col-lg-4 mb-5 mb-lg-0">
                     <p className="lead mb-0">Sitio creado y administrado por<br /> <Link to={"https://www.oscargonzalez.work/"} className="link-profile">Oscar Gonz&aacute;lez</Link>
                     </p>
